@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>close-round-icon.png</file>
+        <file>diagnostic-icon.png</file>
+        <file>ecg-monitoring-icon.png</file>
+        <file>logo.png</file>
+        <file>market-research-icon.png</file>
+        <file>sliders-icon.png</file>
+        <file>list-round-bullet-icon.png</file>
+        <file>home-page-white-icon.png</file>
+        <file>list-round-bullet-icon2.png</file>
+        <file>close-round-icon2.png</file>
+        <file>diagnostic-icon2.png</file>
+        <file>ecg-monitoring-icon2.png</file>
+        <file>market-research-icon2.png</file>
+        <file>sliders-icon2.png</file>
+        <file>health-insurance-icon2.png</file>
+        <file>logo2.png</file>
+    </qresource>
+    <qresource prefix="/styles">
+        <file>style1.qss</file>
+    </qresource>
+</RCC>
