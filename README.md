@@ -15,3 +15,6 @@ HRV_DFA: Ewa Krężel
 Heart_Class: Patryk Celebański
 
 My task as software architect was to participate in the design process of the application architecture, design the communication between modules and the GUI, and implement the communication between the modules: Input/Output, ECG_Baseline, R_Peaks, HRV1. I was also responsible for ensuring application responsiveness.
+
+
+The whole application was built using the Qt tool.
